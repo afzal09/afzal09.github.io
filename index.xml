@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Den</title>
+    <link>https://afzal09.github.io/</link>
+    <description>Recent content on My Den</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://afzal09.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://afzal09.github.io/page/about/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://afzal09.github.io/page/about/</guid>
+      <description>My name is Afzal Momin. I have the following qualities:&#xA;I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?&#xA;my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+    </item>
+    <item>
+      <title>What is so big about big-Oh</title>
+      <link>https://afzal09.github.io/post/backend/dsa/big-oh/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://afzal09.github.io/post/backend/dsa/big-oh/</guid>
+      <description>Big-Oh What is Big-Oh ? It is a method for analyzing asymtotic runtime of algorithms depending on the given Input against Time Why Big-Oh is used ? It is used to measure performance and efficiency of algorithms.on the given input against time example let n be the size of program&amp;rsquo;s input let T(n) be the problem solving function or operation let F(n) bs another function preferablly simple.This is not real function but simple function to convey how the algorithm run asymtotically to other function then we say T(n) E O(F(n)) if and only if T(n) &amp;lt;= c.</description>
+    </item>
+  </channel>
+</rss>
